@@ -63,3 +63,8 @@ Anirudh Singh Chauhan
 B.Tech Computer Science Engineering | Aspiring Data Analyst
 
 [GitHub](https://github.com/HexBurst) | [LinkedIn](https://www.linkedin.com/in/anirudh-singh-chauhan-874461321/)
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard-preview.png)
+
